@@ -38,7 +38,7 @@ https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-by" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/NTV_Belarus.svg/1200px-NTV_Belarus.svg.png" group-title="Белорусские",НТВ Беларусь
 http://82.209.197.187:8080/udp/239.0.100.6:1234
 
-#EXTINF:-1 tvg-id="rtr-by" tvg-logo="https://tvnews.by/uploads/posts/2018-11/1542276165_rtr-belarus_hd.png" group-title="Белорусские",РТР Беларусь
+#EXTINF:-1 tvg-id="rtr-by" tvg-logo="https://kvotka.ru/images/2022/03/17/rtr-belarus.png" group-title="Белорусские",РТР Беларусь
 http://82.209.197.187:8080/udp/239.0.100.7:1234
 
 #EXTINF:-1 tvg-id="stv-by" tvg-logo="https://epgx.site/p/stv-by.png" group-title="Белорусские",СТВ (HD)
